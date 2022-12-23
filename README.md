@@ -1,1 +1,1 @@
-# Gyroscope-on-a-inverted-pendulum
+# Balancing-of-a-inverted-pendulum-using-Gyroscope
